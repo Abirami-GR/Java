@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/3.Data Types, Variables and Input/Lecture/Variables/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.Operators, If-else and Number System/Lecture/Operators/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.Operators, If-else and Number System/Challenge/9-FloatMultiplication/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.Operators, If-else and Number System/Challenge/12-SimpleInterest/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.Operators, If-else and Number System/Challenge/14-FahrenheitToCelsius/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.Basics/Challenges/1-Morning/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.Basics/Challenges/2-Subscribe/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.Basics/Challenges/3-Patterns/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.Data Types, Variables and Input/Challenge/4-SingleLine/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.Data Types, Variables and Input/Challenge/5-Welcome/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.Data Types, Variables and Input/Challenge/6-Sum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.Operators, If-else and Number System/Challenge/10-PerimeterOfRectangle/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.Operators, If-else and Number System/Challenge/11-AreaOfTriangle/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.Operators, If-else and Number System/Challenge/13-CompundInterest/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.Operators, If-else and Number System/Challenge/7-Swap/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.Operators, If-else and Number System/Challenge/8-Arithmetic/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.Operators, If-else and Number System/Challenge/15-PositiveNegativeZero/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.Operators, If-else and Number System/Challenge/16-OddOrEven/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.Operators, If-else and Number System/Challenge/17-GreatestOfThree/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.Operators, If-else and Number System/Challenge/18-LeapYear/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.Operators, If-else and Number System/Challenge/19-Grades/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.Operators, If-else and Number System/Challenge/20-AgeGroup/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.Operators, If-else and Number System/Challenge/21-BitwiseAnd/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.Operators, If-else and Number System/Challenge/22-BitwiseOr/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.Operators, If-else and Number System/Challenge/23-BitwiseXor/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.Operators, If-else and Number System/Challenge/24-BitwiseCompliment/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.Operators, If-else and Number System/Challenge/25-BitwiseLeftShift/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.Operators, If-else and Number System/Challenge/26-BitwiseRightShift/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4.Operators, If-else and Number System/Challenge/29-BitwiseOddOrEven/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.While Loop , Methods and Arrays/Lecture/Notes/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.While Loop , Methods and Arrays/Challenge/28-MultiplicationTable/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.While Loop , Methods and Arrays/Challenge/29-SumOfOddNumbers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.While Loop , Methods and Arrays/Challenge/30-Factorial/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.While Loop , Methods and Arrays/Challenge/31-SumOfDigits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.While Loop , Methods and Arrays/Challenge/32-LeastCommonMultiple/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.While Loop , Methods and Arrays/Challenge/33-GreatestCommonDivisor/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.While Loop , Methods and Arrays/Challenge/34-PrimeNumber/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.While Loop , Methods and Arrays/Challenge/35-ReverseTheDigits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.While Loop , Methods and Arrays/Challenge/36-FibonacciSeries/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.While Loop , Methods and Arrays/Challenge/37-ArmstrongNumber/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.While Loop , Methods and Arrays/Challenge/38-Palindrome/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.While Loop , Methods and Arrays/Challenge/39-LoopPatterns/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.While Loop , Methods and Arrays/Challenge/40-ArraySumAverage/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.While Loop , Methods and Arrays/Challenge/41-ArrayOccurrences/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.While Loop , Methods and Arrays/Challenge/42-ArrayMaxMin/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.While Loop , Methods and Arrays/Challenge/ArrayUtility/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.While Loop , Methods and Arrays/Challenge/43-ArraySorted/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.While Loop , Methods and Arrays/Challenge/44-ArrayDeleteElement/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.While Loop , Methods and Arrays/Challenge/45-ArrayReverse/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.While Loop , Methods and Arrays/Challenge/46-ArrayPalindrome/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.While Loop , Methods and Arrays/Challenge/47-ArrayMergeSorted/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.While Loop , Methods and Arrays/Challenge/48-ArraySearchElement2D/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.While Loop , Methods and Arrays/Challenge/49-ArraySumAverage2D/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5.While Loop , Methods and Arrays/Challenge/50-SumOfTwoDiagonals/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6.Classes and Objects/Lecture/ClassesAndObjects/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6.Classes and Objects/Challenges/51-Book/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6.Classes and Objects/Challenges/52-Course/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.Control Statements, Math and String/Lecture/Notes/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.Control Statements, Math and String/Challenge/53-MinumumTernary/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.Control Statements, Math and String/Challenge/54-OddOrEvenTernary/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.Control Statements, Math and String/Challenge/55-AbsoluteIntegerTernary/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.Control Statements, Math and String/Challenge/56-ScoreTernary/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.Control Statements, Math and String/Challenge/57-MonthOfTheYearSwitch/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.Control Statements, Math and String/Challenge/58-SimpleCalculatorSwitch/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.Control Statements, Math and String/Challenge/59-PasswordChecker/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.Control Statements, Math and String/Challenge/60-NumberGuessingGame/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.Control Statements, Math and String/Challenge/61-ForMultiplicationTable/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.Control Statements, Math and String/Challenge/62-ForPrimeOrNot/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.Control Statements, Math and String/Challenge/63-ForEachMaxArray/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.Control Statements, Math and String/Challenge/64-ForEachOccurrences/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.Control Statements, Math and String/Challenge/65-BreakUserInputExit/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.Control Statements, Math and String/Challenge/66-SumPositiveContinue/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.Control Statements, Math and String/Challenge/67-ContinuePrintEven/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.Control Statements, Math and String/Challenge/68-RecursionFibonacciSeries/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.Control Statements, Math and String/Challenge/69-RecursionPalindrome/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.Control Statements, Math and String/Challenge/70-StudentToString/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.Control Statements, Math and String/Challenge/71-ConcatenateAndConvert/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.Control Statements, Math and String/Challenge/72-Circle/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.Control Statements, Math and String/Challenge/73-Dice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.Control Statements, Math and String/Challenge/74-GuessingGame/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.Control Statements, Math and String/Challenge/75-WordsAndConcatenate/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7.Control Statements, Math and String/Challenge/76-CarFinal/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/8.Encapsulation And Inheritence/Lecture/OOPS/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/8.Encapsulation And Inheritence/Challenge/77-SimpleApplication/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/8.Encapsulation And Inheritence/Challenge/78-BankAccount/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/8.Encapsulation And Inheritence/Challenge/challenges/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9.Abstraction And Polymorphism/Lecture/AbstractAndPoly/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9.Abstraction And Polymorphism/Challenge/Challenge/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10.Exception And File Handling/Lecture/Lecture/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10.Exception And File Handling/Challenge" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10.Exception And File Handling/Challenge/Challenge/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11.Collections And Generics/Lecture/Lecture/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11.Collections And Generics/Challenge/89-ConcatenateStringVarArgs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11.Collections And Generics/Challenge/90-SortDescendingOrder/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11.Collections And Generics/Challenge/91-CountTheFrequency/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11.Collections And Generics/Challenge/92-SwapArrayListElements/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11.Collections And Generics/Challenge/93-ReverseListElements/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11.Collections And Generics/Challenge/94-StudentPriorityQueue/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11.Collections And Generics/Challenge/95-SetUniqueCharacters/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11.Collections And Generics/Challenge/96-EnumDayOfWeek/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11.Collections And Generics/Challenge/97-EnumDayOfWeek/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11.Collections And Generics/Challenge/98-MappingCountryCapitals/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12.Multithreading And Executor Service/Lecture/Lecture/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12.Multithreading And Executor Service/Challenge/Challenges/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13.Functional Programming/Challenge/Challenge/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13.Functional Programming/Lecture/Lecture/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
